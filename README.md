@@ -19,7 +19,7 @@ This comprehensive Power BI dashboard analyzes user behavior, transaction trends
 
 ### 1. Home / Summary
 Provides a bird's-eye view of PhonePe’s total transaction amount, success vs. failure trends, and overall monthly performance.
-![Home Dashboard](HomePhonepe.png)
+![Home Dashboard](Home%20Phonepe.png)
 
 ---
 
