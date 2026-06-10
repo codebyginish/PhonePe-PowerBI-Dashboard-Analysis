@@ -37,13 +37,13 @@ An in-depth look at Auto Loans, Gold Loans, Mutual Funds, and Credit Scores. Loa
 
 ### 4. Money Transfers
 Monitors peer-to-peer and peer-to-merchant payments via QR Codes, UPI IDs, Self Accounts, and Mobile Numbers. 
-![Money Transfer Dashboard](MoneyTransfer.png)
+![Money Transfer Dashboard](Money%20Transfer.png)
 
 ---
 
 ### 5. Recharge & Bills
 Tracks high-frequency, lower-value transactions including Mobile Recharges, DTH, Cable TV, and Electricity Bill payments.
-![Recharge and Bills Dashboard](Recharge&Bills.png)
+![Recharge and Bills Dashboard](Recharge%20&%20Bills.png)
 
 ---
 
