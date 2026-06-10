@@ -19,7 +19,7 @@ This comprehensive Power BI dashboard analyzes user behavior, transaction trends
 
 ### 1. Home / Summary
 Provides a bird's-eye view of PhonePe’s total transaction amount, success vs. failure trends, and overall monthly performance.
-![Home Dashboard](Home Phonepe.png)
+![Home Dashboard](HomePhonepe.png)
 
 ---
 
@@ -37,13 +37,13 @@ An in-depth look at Auto Loans, Gold Loans, Mutual Funds, and Credit Scores. Loa
 
 ### 4. Money Transfers
 Monitors peer-to-peer and peer-to-merchant payments via QR Codes, UPI IDs, Self Accounts, and Mobile Numbers. 
-![Money Transfer Dashboard](Money Transfer.png)
+![Money Transfer Dashboard](MoneyTransfer.png)
 
 ---
 
 ### 5. Recharge & Bills
 Tracks high-frequency, lower-value transactions including Mobile Recharges, DTH, Cable TV, and Electricity Bill payments.
-![Recharge and Bills Dashboard](Recharge & Bills.png)
+![Recharge and Bills Dashboard](Recharge&Bills.png)
 
 ---
 
